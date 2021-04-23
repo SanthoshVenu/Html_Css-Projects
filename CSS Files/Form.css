@@ -1,0 +1,17 @@
+h1{
+    font-style: italic;
+}
+.bgColor{
+    background-color:yellowgreen;
+    background:lightblue url("/Images/_20150828_220414.jpg")  right;
+    background-position: center;
+    
+}
+
+.display{
+    display: inline;
+}
+
+body + p{
+font-style: oblique;
+}
